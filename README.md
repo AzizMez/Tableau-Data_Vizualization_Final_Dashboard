@@ -19,6 +19,7 @@ A group project focused on time series forecasting of fatal car accidents in Ind
 **Stephen Curry Dashboard**  
 A Tableau dashboard exploring Stephen Curry’s career for a data visualization course.
 
-- [View Dashboard](https://us-east-1.online.tableau.com/t/azizalmezraani-3f18fc8661/views/CurryDashboard_AlMezraani_Aziz/Steph?:origin=card_share_link&:embed=n)
+- [View Dashboard](https://public.tableau.com/views/CurryDashboard_AlMezraani_Aziz/Steph)
+
 
 ---
