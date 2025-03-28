@@ -22,5 +22,3 @@ A Tableau dashboard exploring Stephen Curry’s career for a data visualization 
 - [View Dashboard](https://us-east-1.online.tableau.com/t/azizalmezraani-3f18fc8661/views/CurryDashboard_AlMezraani_Aziz/Steph?:origin=card_share_link&:embed=n)
 
 ---
-
-More projects will be added as they are completed.
