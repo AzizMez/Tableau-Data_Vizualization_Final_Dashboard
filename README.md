@@ -16,9 +16,8 @@ Assignments using SQL to extract data from the Adventure Works database.
 - [AlMezraani_4.ipynb](./SQL_Course/AlMezraani_4.ipynb)
 
 
-**Monetizing ML & Deep Learning**
-
-A project leveraging CNNs to detect pediatric pneumonia from X-ray images, achieving 99.83% AUC. Built a healthcare cost matrix to estimate the financial impact of model predictions, projecting $17M in potential annual savings.  
+**Monetizing ML & Deep Learning**                                                                                                                                                                    
+A project leveraging CNNs and multiple machine learning models (Decision Trees, Random Forrest, and XGBoost) to detect pediatric pneumonia from X-ray images, achieving 99.83% AUC. Built a healthcare cost matrix to estimate the financial impact of model predictions, projecting $17M in potential annual savings.  
 
 - [Bangladesh Pneumonia Memo](Monetizing_ML_Memo/Bangladesh%20Pneumonia%20Memo.pdf)  
 - [Cost Matrix (Excel)](Monetizing_ML_Memo/Individual_Assignment_Memo_Cost_Matrix.xlsx)  
