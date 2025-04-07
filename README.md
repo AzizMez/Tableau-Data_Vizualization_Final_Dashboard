@@ -1,6 +1,6 @@
 # Repository Overview
 
-This repository contains files from various graduate-level courses that do not have their own dedicated repositories. It includes coursework from data visualization, data management, Monrtizing ML, and time series analysis courses.
+This repository contains files from various graduate-level courses that do not have their own dedicated repositories. It includes coursework from data visualization, data management, monetizing machine learning, and time series analysis courses.
 
 ## Contents
 
